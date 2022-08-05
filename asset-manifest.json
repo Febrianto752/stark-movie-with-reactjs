@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/latihan-reactjs/static/css/main.6bf19610.css",
+    "main.js": "/latihan-reactjs/static/js/main.b22ef5b5.js",
+    "static/js/787.dba5a918.chunk.js": "/latihan-reactjs/static/js/787.dba5a918.chunk.js",
+    "static/media/scifi.jpg": "/latihan-reactjs/static/media/scifi.d7e33e800ac02f489fd8.jpg",
+    "static/media/spiderman.jpg": "/latihan-reactjs/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
+    "static/media/main.jpg": "/latihan-reactjs/static/media/main.4a912a242568343fea42.jpg",
+    "static/media/everything.jpg": "/latihan-reactjs/static/media/everything.ed96eaa84be6674ac60c.jpg",
+    "static/media/avenger.jpg": "/latihan-reactjs/static/media/avenger.e6f6d831ff7250a20695.jpg",
+    "static/media/robinhood.jpg": "/latihan-reactjs/static/media/robinhood.a811f3623395b8d5c5fd.jpg",
+    "static/media/bathman.jpg": "/latihan-reactjs/static/media/bathman.d63ba254a96468382e2b.jpg",
+    "static/media/lightyear.jpg": "/latihan-reactjs/static/media/lightyear.881da96e35afae963ad1.jpg",
+    "static/media/joker.jpg": "/latihan-reactjs/static/media/joker.4231e28eb1f27552d08f.jpg",
+    "static/media/morbius.jpg": "/latihan-reactjs/static/media/morbius.c2de5c653057f3da7c51.jpg",
+    "static/media/antman.jpg": "/latihan-reactjs/static/media/antman.b77f4ae26e0b3d82058c.jpg",
+    "static/media/infinite.jpg": "/latihan-reactjs/static/media/infinite.6e1272e9a944932e5963.jpg",
+    "static/media/superman.jpg": "/latihan-reactjs/static/media/superman.1f90bb661b43de78b7b8.jpg",
+    "static/media/dune.jpg": "/latihan-reactjs/static/media/dune.bf1854be9390dd5f2921.jpg",
+    "index.html": "/latihan-reactjs/index.html",
+    "main.6bf19610.css.map": "/latihan-reactjs/static/css/main.6bf19610.css.map",
+    "main.b22ef5b5.js.map": "/latihan-reactjs/static/js/main.b22ef5b5.js.map",
+    "787.dba5a918.chunk.js.map": "/latihan-reactjs/static/js/787.dba5a918.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf19610.css",
+    "static/js/main.b22ef5b5.js"
+  ]
+}
