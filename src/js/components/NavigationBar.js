@@ -1,9 +1,13 @@
 const NavigationBar = (props) => {
+  let rootLink = "#";
+  let trendingLink = "#trending";
+  let superheroLink = "#superhero";
+
   return (
     <>
       <nav className="navbar navbar-expand-lg bg-transparent">
         <div className="container">
-          <a href="/#" className="navbar-brand text-hero-clip">
+          <a href={rootLink} className="navbar-brand text-hero-clip">
             Stark Movie
           </a>
           <a
@@ -22,7 +26,7 @@ const NavigationBar = (props) => {
             <ul className="navbar-nav ms-auto ">
               <li className="nav-item">
                 <a
-                  href="/#trending"
+                  href={trendingLink}
                   className="nav-link active text-white"
                   aria-current="page"
                 >
@@ -30,7 +34,7 @@ const NavigationBar = (props) => {
                 </a>
               </li>
               <li className="nav-item">
-                <a href="/#superhero" className="nav-link text-white">
+                <a href={superheroLink} className="nav-link text-white">
                   Superhero
                 </a>
               </li>
